@@ -1,2 +1,2 @@
 # Samples
-Samples of code
+This folder contains samples of code
